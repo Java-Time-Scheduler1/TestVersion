@@ -9,6 +9,7 @@ public class TestVersion {
         System.out.println("Kannst du das sehen Mohammadjawad?");
         System.out.println("JA ich kann, alles Perfekt");
         System.out.println(" alles perfekt");
+        System.out.println("Batash:Ja alles perfekt");
 
     }
     
